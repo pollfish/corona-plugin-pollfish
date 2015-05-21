@@ -47,7 +47,7 @@ Download this repository and paste the contents over your Corona Enterprise proj
 ##### 3.2.1 iOS 
 
 1. Copy the files form the Plugin folder to your ios/Plugin folder in your project
-2. Add the pollfish framework in your project
+2. Add the pollfish and other required framework in your project
 
 In Xcode, select the target that you want to use and in the Build Phases tab expand the Link Binary With Libraries section. Press the + button, and press Add other… In the dialog box that appears, go to the Pollfish framework’s location and select it. 
 
@@ -55,8 +55,7 @@ The project will appear at the top of the Link Binary With Libraries section and
 
 Note: The framework is a folder and you should add the whole folder into your project.
 
-
-3. Add the following frameworks (if you don’t already have them) in your project
+Finally add the following frameworks (if you don’t already have them) in your project
 
 * AdSupport.framework
 * CoreGraphics.framework
