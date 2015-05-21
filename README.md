@@ -76,7 +76,7 @@ Init function takes the following parameters:
 1.	**debugMode**: - Choose Debug or Release Mode
 2.	**customMode**: - Init or custom init
 3.	**apiKey**: - Your API Key (from step 2)
-4.	**pos**: - The Position where you wish to place the Pollfish indicator. There are four different options {Position.TOP_LEFT, Position.BOTTOM_LEFT, Position.MIDDLE_LEFT, Position.TOP_RIGHT, Position.BOTTOM_RIGHT, Position.MIDDLE_RIGHT}
+4.	**pos**: - The Position where you wish to place the Pollfish indicator. There are four different options {PollFishPositionTopLeft, PollFishPositionBottomLeft,PollFishPositionTopRight,PollFishPositionBottomRight,PollFishPositionMiddleLeft,PollFishPositionMiddleRight}
 5.	**indPadding**: - The padding (in dp) from top or bottom according to Position of the indicator specified before (0 is the default value – |*if used in MIDDLE position, padding is calculating from top).
 
 For example:
