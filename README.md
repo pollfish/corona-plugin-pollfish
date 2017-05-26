@@ -1,6 +1,6 @@
 # Pollfish Corona SDK plugin 
 
-![alt tag](https://www.pollfish.com/img/logoHome.png)
+![alt tag](https://storage.googleapis.com/pollfish-images/logoHome.png)
 
 Corona plugin to allow integration of Pollfish surveys into Android and iOS apps. 
 
